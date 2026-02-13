@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://gpm-parks.ma/sitemap.xml
+Sitemap: https://gpm-parks.ma/en/sitemap.xml
+Sitemap: https://gpm-parks.ma/fr/sitemap.xml
