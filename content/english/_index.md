@@ -4,7 +4,7 @@ hero_slider:
   enable : true
   slider_item:
     # slider item
-    - subtitle : "GPM Parks"
+    - subtitle : "Solaris"
       title : "Sustainable <br>Industrial Hubs"
       content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
       and strategic growth."
@@ -18,7 +18,7 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "GPM Parks"
+    - subtitle : "Solaris"
       title : "Utility-Scale <br>Solar GenerationN"
       content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
       bg_image_webp : "images/slider/09.png"
@@ -31,7 +31,7 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "GPM Parks"
+    - subtitle : "Solaris"
       title : "Maximum power <br>with every panel"
       content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
       over the long term."
@@ -69,7 +69,7 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "What GPM Parks Does"
+  title : "What Solaris Does"
   
   content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
   convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
