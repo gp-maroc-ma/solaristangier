@@ -1,7 +1,7 @@
 ########################### Default parameters ######################
-logo = "images/logo-gmp-parks.jpg"
-logo_width = "150px"
-logo_footer = "images/logo-gmp-parks.jpg"
+logo = "images/logo_horizontal.png"
+logo_width = "300px"
+logo_footer = "images/logo_horizontal.png"
 favicon = "images/favicon.png"
 page_sharing_image = "images/backgrounds/page-sharing.jpg"
 # top header
