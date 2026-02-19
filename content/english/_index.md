@@ -115,31 +115,33 @@ funfacts :
       count : "8"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
 
+
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Manufacturing & Technology"
-  title : "Solar Park Technology"
+  subtitle : "Mission & Vision"
+  title : "Solaris Tangier Values"
   image_webp : "images/about/GPM-1-2-map.jpeg"
   image : "images/about/GPM-1-2-map.jpeg"
   content : ""
   feature_item:
     # feature item loop
-    - name : "State-of-the-Art Equipment for Clean Energy Production"
-      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and 
-      high-performance energy production.
-      <br><br> 
-      - <b>Solar Tracking:</b> The panels are mounted on horizontal-axis solar trackers aligned in a North-South 
-      direction. This technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy 
-      production throughout the day. <br>
-      - <b>Energy Conversion:</b> Photovoltaic panels capture solar energy and convert it into electricity. This output 
-      is optimized by inverter systems that ensure a stable and efficient transformation of the current.<br>
-      - <b>Grid Integration:</b> The energy produced is transmitted via transformer stations and delivery substations, 
-      allowing for safe and seamless integration into the national electrical grid.
-      <br><br> This system offers fluid, secure operation compliant with industry best practices while supplying green 
-      electricity to the network."
-     
+    - name : "Mission"
+      icon : "fas fa-crosshairs" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "At Solaris Tangier, our mission is to drive the global transition to sustainable energy by delivering 
+      cutting-edge, high-efficiency photovoltaic solar solutions. We are committed to advancing the quality & 
+      affordability of solar technology by maintaining flexibility in our product design & modular manufacturing 
+      processes in our state-of-the-art facility. Our aim is to ensure energy independence for our clients & promote 
+      environmental responsibility."
+      
+    # feature item loop
+    - name : "Vision"
+      icon : "fas fa-eye" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Solaris Tangier envisions becoming Africa’s leading hub for solar panel manufacturing, supporting 
+      Morocco’s renewable energy goals and reducing international reliance on China-centric supply chains. We aim to 
+      deliver ethically sourced, high-efficiency solar solutions that meet the needs of both African & North American 
+      markets, driving sustainable energy worldwide."
+      
       
 ################################# service ############################################
 service:
