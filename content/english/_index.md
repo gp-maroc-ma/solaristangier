@@ -211,7 +211,7 @@ project:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Power Your Future with Clean Energy Solutions"
+  title : "Partner with Us to Power Your Next Solar Project"
   bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   button:
