@@ -5,9 +5,9 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "Solaris"
-      title : "Sustainable <br>Industrial Hubs"
-      content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
-      and strategic growth."
+      title : "Leading Solar Module <br>Manufacturer"
+      content : "Powering the future from Morocco's premier free trade zone - delivering world-class solar panels 
+      to markets across Africa, Europe, and North America."
       bg_image_webp : "images/slider/image44.jpeg"
       bg_image : "images/slider/image44.jpeg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
@@ -19,8 +19,8 @@ hero_slider:
         
     # slider item
     - subtitle : "Solaris"
-      title : "Utility-Scale <br>Solar GenerationN"
-      content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
+      title : "Cutting-Edge <br>Solar Technology"
+      content : "Delivering high-efficiency photovoltaic solutions to drive the global transition to sustainable energy."
       bg_image_webp : "images/slider/09.png"
       bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
@@ -32,9 +32,9 @@ hero_slider:
         
     # slider item
     - subtitle : "Solaris"
-      title : "Maximum power <br>with every panel"
-      content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
-      over the long term."
+      title : "Ethically Sourced <br>Solar Solutions"
+      content : "High-efficiency panels with full traceability, meeting international quality standards and ethical 
+      sourcing requirements for global markets."
       bg_image_webp : "images/slider/image5.jpg"
       bg_image : "images/slider/image5.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
@@ -50,19 +50,24 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Utility-Scale Solar Plants"
-      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Large-scale photovoltaic power plants with minimal degradation."
+    - name : "Innovation"
+      icon : "fas fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Exploring cutting-edge technologies like TOPCon and HJT for maximum efficiency & reliability."
       
     # banner feature item loop
-    - name : "Solar Tracking Technology"
-      icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Advanced horizontal-axis solar trackers for full day productivity."
-      
-    # banner feature item loop
-    - name : "Environmental Impact Reduction"
+    - name : "Sustainability"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
+      content : "Protecting the planet through reduced carbon footprints and renewable energy solutions."
+      
+    # banner feature item loop
+    - name : "Quality"
+      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Superior products meeting international standards, verified by third-party audits & lab testing."
+      
+    # banner feature item loop
+    - name : "Integrity"
+      icon : "fas fa-handshake" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Building trust through transparency and ethical practices for long-term partnerships."
 
 
 ################################## about ####################################
