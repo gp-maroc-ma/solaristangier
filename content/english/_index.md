@@ -74,17 +74,13 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "What Solaris Does"
+  title : "Company History"
   
-  content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
-  convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
-  <br><br>
-  Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported 
-  by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate 
-  for 25-30 years with minimal degradation.
-  <br><br>
-  GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over 
-  the long term."
+  content : "Our first manufacturing plant was established in 2018 in Al Hoceima, becoming the first 250 MW solar panel plant in
+Morocco & the largest in Africa. Founded under the parent company GPM Holding’s umbrella, the company initially focused
+on supplying Solaris’ modules for solar farms throughout Morocco. In 2024, the company launched a new 750 MW facility in
+a free trade zone, taking advantage of tax & tariff exemptions to optimize costs for serving international clients,
+Since its inception, Solaris Tangier has maintained its position as Africa’s largest PV solar module manufacturer."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
