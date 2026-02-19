@@ -1,8 +1,8 @@
 ---
-subtitle : "Solaris Projects"
-title : "Project Solutions"
+subtitle : "Solaris Project"
+title : "Project Overview"
 # meta description
-description: "develops, builds, owns, and operates large-scale solar photovoltaic power plants"
+description: "Solaris Tangier is Africa's largest PV solar module manufacturer, delivering high-efficiency PERC, TOPCon, and HJT photovoltaic panels."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"

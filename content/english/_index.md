@@ -204,7 +204,7 @@ project:
   show_item : 3
   button:
     enable : true
-    label : "more projects"
+    label : "more details"
     link : "project/"
   # project item comes from "content/*/project" folder
 
