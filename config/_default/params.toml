@@ -10,11 +10,11 @@ top_header = false
 description = "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants."
 author = "Solaris"
 # contact info
-address = "183 AVENUE PRINCE HERITIER CENTRE NREA LOCAL N 13 RDC, Tanger"
-mobile = "0539 94 59 52"
-email = "khaoula.zayoun@gp-maroc.ma"
+address = "Lots 270 - 275, Mod B, TAC Free Zone, Tangier, Morocco"
+mobile = "+212 539 945 952"
+email = "info@solaristangier.ma"
 # contact form action
-contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeGwhzOaX9eKvI-Ij92LF9ZBzf_h8jOg4ALLyyIUYOJNYtzxg/formResponse" # contact form works with https://formspree.io
+contact_form_action = "#" # contact form works with https://formspree.io
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX
