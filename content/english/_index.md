@@ -96,25 +96,24 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "Ongoing projects"
-      count : "3"
-      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
+    - name : "Annual Capacity <br>(MW)"
+      count : "750"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Years Experience"
-      count : "10"
+    - name : "Facility Size <br>(sqm)"
+      count : "10000"
+      icon : "fas fa-industry" # font-awesome 5 : https://fontawesome.com/icons/
+      
+    # fanfacts item loop
+    - name : "Performance <br>Warranty (Years)"
+      count : "30"
+      icon : "fas fa-shield-alt" # font-awesome 5 : https://fontawesome.com/icons/
+      
+    # fanfacts item loop
+    - name : "Years <br>Experience"
+      count : "8"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      
-    # fanfacts item loop
-    - name : "Annual Production (GWh)"
-      count : "67"
-      icon : "fas fa-bolt" # font-awesome 5 : https://fontawesome.com/icons/
-      
-    # fanfacts item loop
-    - name : "Projects Area (ha)"
-      count : "72"
-      icon : "fas fa-map" # font-awesome 5 : https://fontawesome.com/icons/
-      
 
 ################################# feature ############################################
 feature:
