@@ -7,8 +7,8 @@ description: "Solaris Tangier caters to clients who demand the highest standards
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
-image_webp: "images/project/GPM-4-map.jpeg"
-image: "images/project/GPM-4-map.jpeg"
+image_webp: "images/project/DSC0317.jpg"
+image: "images/project/DSC0317.jpg"
 # project category
 category: "Commercialization"
 # project status

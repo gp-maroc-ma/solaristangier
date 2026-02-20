@@ -8,8 +8,8 @@ hero_slider:
       title : "Leading Solar Module <br>Manufacturer"
       content : "Powering the future from Morocco's premier free trade zone - delivering world-class solar panels 
       to markets across Africa, Europe, and North America."
-      bg_image_webp : "images/slider/image44.jpeg"
-      bg_image : "images/slider/image44.jpeg"
+      bg_image_webp : "images/slider/_DSC0410.jpg"
+      bg_image : "images/slider/_DSC0410.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -21,8 +21,8 @@ hero_slider:
     - subtitle : "Solaris"
       title : "Cutting-Edge <br>Solar Technology"
       content : "Delivering high-efficiency photovoltaic solutions to drive the global transition to sustainable energy."
-      bg_image_webp : "images/slider/09.png"
-      bg_image : "images/slider/09.png"
+      bg_image_webp : "images/slider/_DSC0584.jpg"
+      bg_image : "images/slider/_DSC0584.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -35,8 +35,8 @@ hero_slider:
       title : "Ethically Sourced <br>Solar Solutions"
       content : "High-efficiency panels with full traceability, meeting international quality standards and ethical 
       sourcing requirements for global markets."
-      bg_image_webp : "images/slider/image5.jpg"
-      bg_image : "images/slider/image5.jpg"
+      bg_image_webp : "images/slider/_DSC0631.jpg"
+      bg_image : "images/slider/_DSC0631.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -84,8 +84,8 @@ Since its inception, Solaris Tangier has maintained its position as Africa’s l
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/image3.jpeg"
-  image : "images/about/image3.jpeg"
+  image_webp : "images/about/57_ECOPACKR_26.jpg"
+  image : "images/about/57_ECOPACKR_26.jpg"
   button:
     enable : true;
     label : "more services"
@@ -121,8 +121,8 @@ feature:
   enable : true
   subtitle : "Mission & Vision"
   title : "Solaris Tangier Values"
-  image_webp : "images/about/GPM-1-2-map.jpeg"
-  image : "images/about/GPM-1-2-map.jpeg"
+  image_webp : "images/about/_DSC0576.jpg"
+  image : "images/about/_DSC0576.jpg"
   content : ""
   feature_item:
     # feature item loop
@@ -212,8 +212,8 @@ project:
 cta:
   enable : true
   title : "Partner with Us to Power Your Next Solar Project"
-  bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
-  bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  bg_image_webp : "images/backgrounds/_DSC0422.jpg"
+  bg_image : "images/backgrounds/_DSC0422.jpg"
   button:
     enable : false
     label : "get a quote"
