@@ -276,7 +276,7 @@ blog:
 ################################# contacts ################################################
 contact:
   enable : true
-  image : "images/globe.jpg"
+  image : "images/globe-2.jpg"
 
   form_fields:
     # form item
