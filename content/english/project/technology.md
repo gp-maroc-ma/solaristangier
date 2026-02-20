@@ -7,8 +7,8 @@ description: "The current Solaris production line is compatible with all cell wa
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
-image_webp: "images/project/GPM-2-map.jpeg"
-image: "images/project/GPM-2-map.jpeg"
+image_webp: "images/project/drone_pictures-112.JPG"
+image: "images/project/drone_pictures-112.JPG"
 # project category
 category: "Technology"
 # project status

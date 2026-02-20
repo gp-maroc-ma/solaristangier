@@ -7,8 +7,8 @@ description: "Solaris Tangier’s production line is fully automated, utilizing 
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
-image_webp: "images/project/image3.jpeg"
-image: "images/project/image3.jpeg"
+image_webp: "images/project/drone_pictures-50-2.JPG"
+image: "images/project/drone_pictures-50-2.JPG"
 # project category
 category: "Facility"
 # project status
