@@ -5,42 +5,42 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "Solaris"
-      title : "Leading Solar Module <br>Manufacturer"
-      content : "Powering the future from Morocco's premier free trade zone - delivering world-class solar panels 
-      to markets across Africa, Europe, and North America."
+      title : "Leader de la Fabrication <br>de Modules Solaires"
+      content : "Façonner l'avenir depuis la première zone de libre-échange du Maroc - livrant des panneaux solaires 
+      de classe mondiale aux marchés d'Afrique, d'Europe et d'Amérique du Nord."
       bg_image_webp : "images/slider/_DSC0410.jpg"
       bg_image : "images/slider/_DSC0410.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
     - subtitle : "Solaris"
-      title : "Cutting-Edge <br>Solar Technology"
-      content : "Delivering high-efficiency photovoltaic solutions to drive the global transition to sustainable energy."
+      title : "Technologie Solaire <br>de Pointe"
+      content : "Fournir des solutions photovoltaïques à haute efficacité pour accélérer la transition mondiale vers l'énergie durable."
       bg_image_webp : "images/slider/_DSC0584.jpg"
       bg_image : "images/slider/_DSC0584.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
     - subtitle : "Solaris"
-      title : "Ethically Sourced <br>Solar Solutions"
-      content : "High-efficiency panels with full traceability, meeting international quality standards and ethical 
-      sourcing requirements for global markets."
+      title : "Solutions Solaires <br>Éthiques"
+      content : "Panneaux à haute efficacité avec traçabilité complète, répondant aux normes de qualité internationales 
+      et aux exigences d'approvisionnement éthique pour les marchés mondiaux."
       bg_image_webp : "images/slider/_DSC0631.jpg"
       bg_image : "images/slider/_DSC0631.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
@@ -52,35 +52,35 @@ banner_feature:
     # banner feature item loop
     - name : "Innovation"
       icon : "fas fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Exploring cutting-edge technologies like TOPCon and HJT for maximum efficiency & reliability."
+      content : "Explorer des technologies de pointe comme TOPCon et HJT pour une efficacité et une fiabilité maximales."
       
     # banner feature item loop
-    - name : "Sustainability"
+    - name : "Durabilité"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Protecting the planet through reduced carbon footprints and renewable energy solutions."
+      content : "Protéger la planète grâce à la réduction de l'empreinte carbone et aux solutions d'énergie renouvelable."
       
     # banner feature item loop
-    - name : "Quality"
+    - name : "Qualité"
       icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Superior products meeting international standards, verified by third-party audits & lab testing."
+      content : "Produits supérieurs conformes aux normes internationales, vérifiés par des audits tiers et des tests en laboratoire."
       
     # banner feature item loop
-    - name : "Integrity"
+    - name : "Intégrité"
       icon : "fas fa-handshake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Building trust through transparency and ethical practices for long-term partnerships."
+      content : "Bâtir la confiance par la transparence et les pratiques éthiques pour des partenariats durables."
 
 
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "Company History"
+  subtitle : "À Propos"
+  title : "Histoire de l'Entreprise"
   
-  content : "Our first manufacturing plant was established in 2018 in Al Hoceima, becoming the first 250 MW solar panel plant in
-Morocco & the largest in Africa. Founded under the parent company GPM Holding’s umbrella, the company initially focused
-on supplying Solaris’ modules for solar farms throughout Morocco. In 2024, the company launched a new 750 MW facility in
-a free trade zone, taking advantage of tax & tariff exemptions to optimize costs for serving international clients,
-Since its inception, Solaris Tangier has maintained its position as Africa’s largest PV solar module manufacturer."
+  content : "Notre première usine de fabrication a été établie en 2018 à Al Hoceima, devenant la première usine de panneaux solaires de 250 MW au
+Maroc et la plus grande d'Afrique. Fondée sous l'égide de la société mère GPM Holding, l'entreprise s'est initialement concentrée
+sur la fourniture de modules Solaris pour les parcs solaires à travers le Maroc. En 2024, l'entreprise a lancé une nouvelle installation de 750 MW dans
+une zone de libre-échange, profitant des exonérations fiscales et tarifaires pour optimiser les coûts au service des clients internationaux.
+Depuis sa création, Solaris Tangier a maintenu sa position de plus grand fabricant de modules solaires PV en Afrique."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
@@ -88,7 +88,7 @@ Since its inception, Solaris Tangier has maintained its position as Africa’s l
   image : "images/about/57_ECOPACKR_26.jpg"
   button:
     enable : true;
-    label : "more services"
+    label : "plus de services"
     link : "#contacts"
 
 ################################## funfacts ###############################
@@ -96,22 +96,22 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "Annual Capacity <br>(MW)"
+    - name : "Capacité Annuelle <br>(MW)"
       count : "750"
       icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Facility Size <br>(sqm)"
+    - name : "Surface de l'Usine <br>(m²)"
       count : "10000"
       icon : "fas fa-industry" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Performance <br>Warranty (Years)"
+    - name : "Garantie de <br>Performance (Ans)"
       count : "30"
       icon : "fas fa-shield-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Years <br>Experience"
+    - name : "Années <br>d'Expérience"
       count : "8"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
 
@@ -120,7 +120,7 @@ funfacts :
 feature:
   enable : true
   subtitle : "Mission & Vision"
-  title : "Solaris Tangier Values"
+  title : "Valeurs de Solaris Tangier"
   image_webp : "images/about/_DSC0576.jpg"
   image : "images/about/_DSC0576.jpg"
   content : ""
@@ -128,51 +128,51 @@ feature:
     # feature item loop
     - name : "Mission"
       icon : "fas fa-crosshairs" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "At Solaris Tangier, our mission is to drive the global transition to sustainable energy by delivering 
-      cutting-edge, high-efficiency photovoltaic solar solutions. We are committed to advancing the quality & 
-      affordability of solar technology by maintaining flexibility in our product design & modular manufacturing 
-      processes in our state-of-the-art facility. Our aim is to ensure energy independence for our clients & promote 
-      environmental responsibility."
+      content : "Chez Solaris Tangier, notre mission est d'accélérer la transition mondiale vers l'énergie durable en fournissant 
+      des solutions solaires photovoltaïques de pointe et à haute efficacité. Nous nous engageons à améliorer la qualité et 
+      l'accessibilité de la technologie solaire en maintenant la flexibilité dans la conception de nos produits et nos processus 
+      de fabrication modulaires dans notre installation ultramoderne. Notre objectif est d'assurer l'indépendance énergétique 
+      de nos clients et de promouvoir la responsabilité environnementale."
       
     # feature item loop
     - name : "Vision"
       icon : "fas fa-eye" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Solaris Tangier envisions becoming Africa’s leading hub for solar panel manufacturing, supporting 
-      Morocco’s renewable energy goals and reducing international reliance on China-centric supply chains. We aim to 
-      deliver ethically sourced, high-efficiency solar solutions that meet the needs of both African & North American 
-      markets, driving sustainable energy worldwide."
+      content : "Solaris Tangier aspire à devenir le principal pôle africain de fabrication de panneaux solaires, soutenant 
+      les objectifs du Maroc en matière d'énergies renouvelables et réduisant la dépendance internationale aux chaînes 
+      d'approvisionnement centrées sur la Chine. Nous visons à fournir des solutions solaires à haute efficacité et 
+      d'origine éthique qui répondent aux besoins des marchés africains et nord-américains, propulsant l'énergie durable dans le monde entier."
       
       
 ################################# service ############################################
 service:
   enable : false
-  subtitle : "Project Solutions"
-  title : "Service We Provide"
+  subtitle : "Solutions de Projets"
+  title : "Services que Nous Offrons"
   service_item:
     # service item loop
     - name : "GreenPower Morocco 1"
       link : "service/gpm-1/"
       logo : "images/service/logo-gpm-1.png"
       image : "images/service/image3.jpeg"
-      content : "GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac 
-      photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah 
-      prefecture.
+      content : "GPM Holding, à travers sa filiale GreenPower Morocco 1 S.A., a développé avec succès un parc 
+      photovoltaïque de 30 MWac. L'installation est située à Douar Daidaat, dans la commune de Hjar Ennhal de la 
+      préfecture de Tanger-Assilah.
       <br><br>      
-      Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
-      contribution to Morocco's green energy infrastructure."
+      Développé dans le cadre de la loi 13-09 relative aux énergies renouvelables, le projet représente une contribution 
+      significative à l'infrastructure d'énergie verte du Maroc."
       
     # service item loop
     - name : "GreenPower Morocco 2"
       link : "service/gpm-2/"
       logo : "images/service/logo-gpm-2.png"
       image : "images/service/image6.jpeg"
-      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      content : "GPM Holding développe actuellement deux parcs solaires photovoltaïques supplémentaires : GreenPower Morocco 2 et 
       GreenPower Morocco 4.
       <br><br> 
-      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
-      production from renewable sources and promotes the development of green energy projects in Morocco.
+      Comme leur prédécesseur, ces projets s'inscrivent dans le cadre de la loi 13-09, qui régit la production d'électricité 
+      à partir de sources renouvelables et favorise le développement de projets d'énergie verte au Maroc.
       <br><br> 
-      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      GPM Holding développe actuellement deux parcs solaires photovoltaïques supplémentaires : GreenPower Morocco 2 et GreenPower 
       Morocco"
       
     # service item loop
@@ -180,13 +180,13 @@ service:
       link : "service/gpm-4/"
       logo : "images/service/logo-gpm-4.png"
       image : "images/service/image7.jpg"
-      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      content : "GPM Holding développe actuellement deux parcs solaires photovoltaïques supplémentaires : GreenPower Morocco 2 et 
       GreenPower Morocco 4.
       <br><br> 
-      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
-      production from renewable sources and promotes the development of green energy projects in Morocco.
+      Comme leur prédécesseur, ces projets s'inscrivent dans le cadre de la loi 13-09, qui régit la production d'électricité 
+      à partir de sources renouvelables et favorise le développement de projets d'énergie verte au Maroc.
       <br><br> 
-      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      GPM Holding développe actuellement deux parcs solaires photovoltaïques supplémentaires : GreenPower Morocco 2 et GreenPower 
       Morocco"
 
 
@@ -204,26 +204,26 @@ project:
   show_item : 3
   button:
     enable : true
-    label : "more details"
+    label : "plus de détails"
     link : "project/"
   # project item comes from "content/*/project" folder
 
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Partner with Us to Power Your Next Solar Project"
+  title : "Associez-vous à Nous pour Alimenter Votre Prochain Projet Solaire"
   bg_image_webp : "images/backgrounds/_DSC0422.jpg"
   bg_image : "images/backgrounds/_DSC0422.jpg"
   button:
     enable : false
-    label : "get a quote"
+    label : "demander un devis"
     link : "#contacts"
     
 ################################# testimonial #########################################
 testimonial:
   enable : false
-  subtitle : "Testimonials"
-  title : "What Clients Are Say?"
+  subtitle : "Témoignages"
+  title : "Ce Que Disent Nos Clients"
   testimonial_item:
     # testimonial item loop
     - client_image : "images/testimonial/client-1.jpg"
@@ -246,24 +246,24 @@ testimonial:
 ################################# partners #########################################
 partners:
   enable : false
-  subtitle : "PARTNERS"
-  title : "Our Strategic Partners"
+  subtitle : "PARTENAIRES"
+  title : "Nos Partenaires Stratégiques"
   partners_item:
     
       
     # partners item loop
     - partner_logo : "images/partners/partner-3.png"
-      name : "The Moroccan Agency for Investment and Export Development"
-      description : "[Visit site](https://amdie.gov.ma/)"    
+      name : "L'Agence Marocaine de Développement des Investissements et des Exportations"
+      description : "[Visiter le site](https://amdie.gov.ma/)"    
       
     # partners item loop
     - partner_logo : "images/partners/partner-2.png"
-      name : "The U.S. International Development Finance Corporation"
-      description : "[Visit site](https://www.dfc.gov/)"      
+      name : "La Société Américaine de Financement du Développement International"
+      description : "[Visiter le site](https://www.dfc.gov/)"      
     # partners item loop
     - partner_logo : "images/partners/partner-1.jpg"
       name : "Advanced Material Solutions"
-      description : "[Visit site](https://silicongases.com/polysilicon)"
+      description : "[Visiter le site](https://silicongases.com/polysilicon)"
   
       
 ################################# blog ################################################
