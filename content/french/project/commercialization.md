@@ -1,8 +1,8 @@
 ---
-title: "Commercial Due Diligence"
+title: "Due Diligence Commerciale"
 date: 2025-01-07T10:47:55+06:00
 # meta description
-description: "Solaris Tangier caters to clients who demand the highest standards in quality and ethical sourcing."
+description: "Solaris Tangier s'adresse aux clients qui exigent les plus hauts standards en matière de qualité et d'approvisionnement éthique."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,46 +10,45 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/DSC0317.jpg"
 image: "images/project/DSC0317.jpg"
 # project category
-category: "Commercialization"
+category: "Commercialisation"
 # project status
-status : "In Operation"
+status : "En Opération"
 ---
 
-## Industry Standing & Sourcing
+## Position dans l'Industrie & Approvisionnement
 
-#### Solaris Tangier’s Position in the Global PV Industry
+#### Position de Solaris Tangier dans l'Industrie PV Mondiale
 
-Solaris Tangier’s panel performance is on par with industry leaders. We cater to clients who demand the highest
-standards in quality, ethical sourcing, and manufacturing in regions with non-controversial labor practices.
+Les performances des panneaux de Solaris Tangier sont au niveau des leaders de l'industrie. Nous nous adressons aux clients qui exigent les plus hauts
+standards en matière de qualité, d'approvisionnement éthique et de fabrication dans des régions aux pratiques de travail non controversées.
 
-#### Sourcing Strategy for Raw Materials & Compliance with US Tax Credit Qualifications
+#### Stratégie d'Approvisionnement en Matières Premières & Conformité aux Qualifications des Crédits d'Impôt Américains
 
-Solaris Tangier has initiated strategic partnerships with cell suppliers capable of providing full documentation
-verifying the ethical sourcing of polysilicon used in their manufacturing process. In addition, we will furnish all
-requisite shipping and commercial paperwork to our clients to guarantee a smooth and efficient customs clearance
-process.
+Solaris Tangier a initié des partenariats stratégiques avec des fournisseurs de cellules capables de fournir une documentation complète
+vérifiant l'approvisionnement éthique du polysilicium utilisé dans leur processus de fabrication. De plus, nous fournirons tous les
+documents d'expédition et commerciaux requis à nos clients pour garantir un processus de dédouanement fluide et efficace.
 
-#### Competitiveness in the US Market
+#### Compétitivité sur le Marché Américain
 
-Morocco and the USA have mutually benefitted from a Free Trade Agreement since 2004, under which our USA clientele can
-import our panels free from tariffs or duties (currently at 10% Q1 of 2026). With this advantage coupled with the
-relatively lower labor and utilities costs, Solaris Tangier is well positioned to produce at a competitive price for the
-US market.
+Le Maroc et les États-Unis bénéficient mutuellement d'un Accord de Libre-Échange depuis 2004, grâce auquel notre clientèle américaine peut
+importer nos panneaux sans droits de douane ni taxes (actuellement à 10% au T1 2026). Avec cet avantage combiné aux
+coûts de main-d'œuvre et de services publics relativement plus bas, Solaris Tangier est bien positionné pour produire à un prix compétitif pour le
+marché américain.
 
-## Bankability & Ownership
+## Bancabilité & Propriété
 
-#### Bankability & Reinsurance
+#### Bancabilité & Réassurance
 
-Third party reinsurance is available on a project-by-project basis. ISO, IEC, and PVEL certifications for panel
-performance and facility conformity are available for project bankability requirements.
+Une réassurance tierce est disponible au cas par cas selon les projets. Les certifications ISO, IEC et PVEL pour la
+performance des panneaux et la conformité des installations sont disponibles pour les exigences de bancabilité des projets.
 
-Solaris also provides a comprehensive product and performance warranty for all panels sold. The standard warranty
-extends to 12 years for product and 30 years for performance.
+Solaris fournit également une garantie complète de produit et de performance pour tous les panneaux vendus. La garantie standard
+s'étend à 12 ans pour le produit et 30 ans pour la performance.
 
-#### Solaris Tangier Ownership
+#### Propriété de Solaris Tangier
 
-Solaris Tangier operates as an independent entity and is not affiliated with any other global manufacturers. It is a
-Moroccan company owned by American businessman, Philip W. Jenkins.
+Solaris Tangier opère en tant qu'entité indépendante et n'est affilié à aucun autre fabricant mondial. C'est une
+société marocaine détenue par l'homme d'affaires américain Philip W. Jenkins.
 
-Solaris Tangier ownership documents show Philip W. Jenkins Jr. as the sole shareholder. Documentation relating to
-ownership, company registration, or otherwise can be shared upon request.
+Les documents de propriété de Solaris Tangier indiquent Philip W. Jenkins Jr. comme actionnaire unique. La documentation relative à
+la propriété, l'immatriculation de la société ou autre peut être partagée sur demande.

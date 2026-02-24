@@ -1,8 +1,8 @@
 ---
-title: "Facility Overview"
+title: "Aperçu de l'Installation"
 date: 2025-02-07T10:47:55+06:00
 # meta description
-description: "Solaris Tangier’s production line is fully automated, utilizing state of the art technology to manufacture our panels."
+description: "La ligne de production de Solaris Tangier est entièrement automatisée, utilisant une technologie de pointe pour fabriquer nos panneaux."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,26 +10,26 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/drone_pictures-50-2.JPG"
 image: "images/project/drone_pictures-50-2.JPG"
 # project category
-category: "Facility"
+category: "Installation"
 # project status
-status : "In Operation"
+status : "En Opération"
 ---
 
-## Location and Infrastructure
+## Emplacement et Infrastructure
 
-#### Strategic Location of Manufacturing Plant
+#### Emplacement Stratégique de l'Usine de Fabrication
 
-Solaris Tangier is located in Tangier's TAC (Tangier Automotive City) Free Zone, minutes away from Africa's largest port
+Solaris Tangier est situé dans la Zone Franche TAC (Tangier Automotive City) de Tanger, à quelques minutes du plus grand port d'Afrique,
 Tanger Med.
 
-### Facility Size, Layout, and Production Areas
+### Taille de l'Installation, Agencement et Zones de Production
 
-The Solaris plant is a >10000 sqm space with a capacity of 750 MW per annum. We also have capability of doubling the
-capacity of the factory within 6-12 months.
+L'usine Solaris est un espace de plus de 10 000 m² avec une capacité de 750 MW par an. Nous avons également la capacité de doubler
+la capacité de l'usine en 6 à 12 mois.
 
-## Manufacturing Capabilities
+## Capacités de Fabrication
 
-#### Current Production Lines and Technologies
+#### Lignes de Production et Technologies Actuelles
 
-Solaris Tangier’s production line is fully automated, utilizing state of the art technology to manufacture our panels.
-The panels are assembled using Italian supplier Ecoprogetti's fully automated European manufactured production line.
+La ligne de production de Solaris Tangier est entièrement automatisée, utilisant une technologie de pointe pour fabriquer nos panneaux.
+Les panneaux sont assemblés à l'aide de la ligne de production entièrement automatisée du fournisseur italien Ecoprogetti, fabriquée en Europe.

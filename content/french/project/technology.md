@@ -1,8 +1,8 @@
 ---
-title: "Technical Due Diligence"
+title: "Due Diligence Technique"
 date: 2025-02-07T10:47:55+06:00
 # meta description
-description: "The current Solaris production line is compatible with all cell wafer sizes available on the market as of 2026."
+description: "La ligne de production actuelle de Solaris est compatible avec toutes les tailles de plaquettes de cellules disponibles sur le marché en 2026."
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,76 +10,76 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/drone_pictures-112.JPG"
 image: "images/project/drone_pictures-112.JPG"
 # project category
-category: "Technology"
+category: "Technologie"
 # project status
-status : "In Operation"
+status : "En Opération"
 ---
 
-## Facility Capabilities
+## Capacités de l'Installation
 
-#### Compatibility with State-of-the-Art PV Panel Production
+#### Compatibilité avec la Production de Panneaux PV de Dernière Génération
 
-The current Solaris production line is compatible with all cell wafer sizes available on the market as of 2026. The line
-can produce glass-glass modules, glass-backsheet modules, modules with or without aluminum frames, custom sized modules
-per client request, and more.
+La ligne de production actuelle de Solaris est compatible avec toutes les tailles de plaquettes de cellules disponibles sur le marché en 2026. La ligne
+peut produire des modules verre-verre, des modules verre-backsheet, des modules avec ou sans cadres en aluminium, des modules de tailles personnalisées
+selon la demande du client, et plus encore.
 
-#### Readiness to Produce TOPCon and HJT Panels
+#### Prête à Produire des Panneaux TOPCon et HJT
 
-The current production line is compatible with PERC and TOPCon technologies as is. It will soon be updated to produce
-HJT modules as well.
+La ligne de production actuelle est compatible avec les technologies PERC et TOPCon telle quelle. Elle sera bientôt mise à jour pour produire
+également des modules HJT.
 
-## PV Technology Assessment
+## Évaluation de la Technologie PV
 
-#### PERC Technology:
+#### Technologie PERC :
 
-Status: Actively producing and supplying PERC solar panels.
-Key Features: Proven, reliable technology with widespread field data.
-Good efficiency (~22%) at a cost-effective level.
-Well-suited for existing manufacturing processes and customer demands.
+Statut : Production et fourniture actives de panneaux solaires PERC.
+Caractéristiques clés : Technologie éprouvée et fiable avec des données de terrain étendues.
+Bonne efficacité (~22%) à un niveau rentable.
+Bien adaptée aux processus de fabrication existants et aux demandes des clients.
 
-#### HJT Technology:
+#### Technologie HJT :
 
-Integration Timeline: Targeted for implementation in 2026.
-Key Features: Highest efficiency potential (~25% or more) with bifacial gains. Excellent performance in high-temperature
-environments, reducing energy losses.
-Requires new manufacturing equipment, leading to higher initial costs.
+Calendrier d'intégration : Mise en œuvre prévue en 2026.
+Caractéristiques clés : Potentiel d'efficacité le plus élevé (~25% ou plus) avec des gains bifaciaux. Excellentes performances dans les environnements
+à haute température, réduisant les pertes d'énergie.
+Nécessite de nouveaux équipements de fabrication, entraînant des coûts initiaux plus élevés.
 
-#### TOPCon Technology:
+#### Technologie TOPCon :
 
-Integration Timeline: Ready for production upon demand
-Key Features: Higher efficiency than PERC (~23-24%).
-Easy to integrate into existing PERC production lines with relatively low capital expenditure.
-Improved passivation and lower recombination losses, enhancing performance.
+Calendrier d'intégration : Prêt pour la production sur demande
+Caractéristiques clés : Efficacité supérieure au PERC (~23-24%).
+Facile à intégrer dans les lignes de production PERC existantes avec des dépenses d'investissement relativement faibles.
+Passivation améliorée et pertes de recombinaison réduites, améliorant les performances.
 
-#### Key Considerations:
+#### Considérations Clés :
 
-PERC's Proven Reliability: PERC will remain an essential part of the portfolio until TOPCon and HJT reach full
-production capacity.
-Balance of Cost and Efficiency: While HJT offers the highest efficiency, TOPCon serves as a cost-effective intermediate
-step between PERC and HJT, ensuring competitive pricing and performance.
-Ethical Manufacturing:  Throughout the roadmap, Solaris Tangier emphasizes ethical sourcing, avoiding China-centric
-supply chains to meet the demand from North American and other markets.
+Fiabilité Éprouvée du PERC : Le PERC restera une partie essentielle du portefeuille jusqu'à ce que TOPCon et HJT atteignent leur pleine
+capacité de production.
+Équilibre Coût et Efficacité : Bien que HJT offre l'efficacité la plus élevée, TOPCon sert d'étape intermédiaire rentable
+entre PERC et HJT, assurant des prix et des performances compétitifs.
+Fabrication Éthique : Tout au long de la feuille de route, Solaris Tangier met l'accent sur l'approvisionnement éthique, évitant les chaînes
+d'approvisionnement centrées sur la Chine pour répondre à la demande des marchés nord-américains et autres.
 
-## Technology Assessment
+## Évaluation Technologique
 
-#### Product Certifications & Standards
+#### Certifications Produits & Normes
 
-Solaris Tangier’s new facility is certified per ISO 9001, ISO 14001, & ISO 45001 standards, as well as IEC 61215 & 61730.
-The modules produced at the Solaris facility will bear the certification mark of the following certifying bodies:
+La nouvelle installation de Solaris Tangier est certifiée selon les normes ISO 9001, ISO 14001 et ISO 45001, ainsi que IEC 61215 et 61730.
+Les modules produits dans l'installation Solaris porteront la marque de certification des organismes certificateurs suivants :
 
-- IEC certifications through TUV for EU & African market
-- UL/CSA certification for North American market
-- PVEL PQP for USA market
+- Certifications IEC par TUV pour les marchés UE et africain
+- Certification UL/CSA pour le marché nord-américain
+- PVEL PQP pour le marché américain
 
-#### Panel Capacity Flexibility
+#### Flexibilité de Capacité des Panneaux
 
-Solaris Tangier’s current production line is working with 3 varying sizes of modules all using the G12 solar cell.
-The power output ranges from 380W to 680W an can be adjusted according to the client’s demand.
+La ligne de production actuelle de Solaris Tangier travaille avec 3 tailles différentes de modules utilisant tous la cellule solaire G12.
+La puissance de sortie varie de 380W à 680W et peut être ajustée selon la demande du client.
 
-#### Equipment Vendor Capabilities
+#### Capacités du Fournisseur d'Équipements
 
-Ecoprogetti is an Italian company that manufactures state of the art PV module manufacturing equipment.
-They are certified per international & EU standards, and they boast more than 30GW of installed solar production
-systems globally.
+Ecoprogetti est une entreprise italienne qui fabrique des équipements de fabrication de modules PV de pointe.
+Ils sont certifiés selon les normes internationales et européennes, et comptent plus de 30 GW de systèmes de production solaire
+installés dans le monde.
 
-+30 GW Installed (Up-to 2024)
++30 GW Installés (Jusqu'à 2024)
