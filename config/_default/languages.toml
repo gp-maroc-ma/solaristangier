@@ -36,7 +36,7 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
-keywords = ["GPM Parks","Énergie Solaire", "Énergie Renouvelable", "Hubs Industriels Durables", "Solaire à Grande Échelle", "GreenPower Maroc", "Parc Photovoltaïque", "Énergie Propre", "Innovation Solaire", "Énergie Verte Maroc", "Écosystèmes Industriels"]
+keywords = ["Solaris Tangier", "Fabrication de Panneaux Solaires", "Modules Solaires PV", "Énergie Renouvelable Maroc", "Panneaux Solaires TOPCon", "Technologie HJT", "Panneaux Solaires PERC", "Fabricant Solaire Afrique", "Approvisionnement Solaire Éthique", "Zone Franche de Tanger", "Solutions Photovoltaïques"]
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'
@@ -50,6 +50,6 @@ consent_allow_all = 'Tout autoriser'
 consent_save_preferences = 'Enregistrer'
 
 # footer content
-footer_content = "GPM Parks - Alimenter demain avec l'innovation solaire. <br>Chaque centrale solaire développée par GPM Parks contribue à réduire les émissions de gaz à effet de serre, à diminuer la dépendance aux combustibles fossiles importés, à stabiliser les coûts de l'électricité à long terme et à soutenir les objectifs du Maroc en matière d'énergies renouvelables grâce à des solutions solaires techniquement robustes, écologiquement responsables et économiquement viables."
+footer_content = "Solaris Tangier est le plus grand fabricant de modules solaires PV d'Afrique, basé dans la Zone Franche de Tanger près du port Tanger Med. Nous combinons une technologie de pointe avec des pratiques durables pour alimenter les foyers, les entreprises et les communautés à travers l'Afrique et l'Amérique du Nord. Associez-vous à nous pour des solutions solaires fiables et certifiées qui construisent un avenir plus propre."
 # copyright
 copyright = "Copyright © Solaris, %s-year Tous droits réservés"
