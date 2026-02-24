@@ -5,42 +5,43 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "Solaris"
-      title : "Hubs Industriels <br>Durables"
-      content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
-      énergies renouvelables et à la croissance stratégique."
-      bg_image_webp : "images/slider/image44.jpeg"
-      bg_image : "images/slider/image44.jpeg"
+      title : "Leading Solar Module <br>Manufacturer"
+      content : "Powering the future from Morocco's premier free trade zone - delivering world-class solar panels 
+      to markets across Africa, Europe, and North America."
+      bg_image_webp : "images/slider/_DSC0410.jpg"
+      bg_image : "images/slider/_DSC0410.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "plus de détails"
-        link : "fr/project/"
+        label : "more details"
+        link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-
+        
     # slider item
     - subtitle : "Solaris"
-      title : "Production d'énergie <br>solaire à grande échelle"
-      content : "Les centrales solaires à grande échelle sont conçues pour fonctionner pendant 25 à 30 ans avec une dégradation minimale."
-      bg_image_webp : "images/slider/09.png"
-      bg_image : "images/slider/09.png"
+      title : "Cutting-Edge <br>Solar Technology"
+      content : "Delivering high-efficiency photovoltaic solutions to drive the global transition to sustainable energy."
+      bg_image_webp : "images/slider/_DSC0584.jpg"
+      bg_image : "images/slider/_DSC0584.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "plus de détails"
-        link : "fr/project/"
+        label : "more details"
+        link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-
+        
     # slider item
     - subtitle : "Solaris"
-      title : "Puissance maximale <br>avec chaque panneau"
-      content : "Nous privilégions les projets techniquement solides, respectueux de l'environnement et économiquement viables à long terme."
-      bg_image_webp : "images/slider/image5.jpg"
-      bg_image : "images/slider/image5.jpg"
+      title : "Ethically Sourced <br>Solar Solutions"
+      content : "High-efficiency panels with full traceability, meeting international quality standards and ethical 
+      sourcing requirements for global markets."
+      bg_image_webp : "images/slider/_DSC0631.jpg"
+      bg_image : "images/slider/_DSC0631.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "plus de détails"
-        link : "fr/project/"
+        label : "more details"
+        link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -49,43 +50,45 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Centrales Solaires à Grande Échelle"
-      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Centrales photovoltaïques de grande envergure avec une dégradation minimale."
-
+    - name : "Innovation"
+      icon : "fas fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Exploring cutting-edge technologies like TOPCon and HJT for maximum efficiency & reliability."
+      
     # banner feature item loop
-    - name : "Technologie de Suivi Solaire"
-      icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Suiveurs solaires avancés à axe horizontal pour une productivité journalière optimale."
-
-    # banner feature item loop
-    - name : "Réduction de l'Impact Environnemental"
+    - name : "Sustainability"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "La production d'électricité zéro émission réduit la dépendance aux énergies fossiles."
+      content : "Protecting the planet through reduced carbon footprints and renewable energy solutions."
+      
+    # banner feature item loop
+    - name : "Quality"
+      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Superior products meeting international standards, verified by third-party audits & lab testing."
+      
+    # banner feature item loop
+    - name : "Integrity"
+      icon : "fas fa-handshake" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Building trust through transparency and ethical practices for long-term partnerships."
 
 
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "À propos de nous"
-  title : "Ce que fait Solaris"
-
-  content : "GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales 
-  convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.
-  <br><br>
-  Les centrales solaires de grande envergure se composent de milliers de panneaux photovoltaïques installés sur de grandes étendues de 
-  terrain, soutenus par une infrastructure électrique telle que des onduleurs, des transformateurs et des sous-stations. Ces systèmes 
-  sont conçus pour fonctionner pendant 25 à 30 ans avec une dégradation minimale.
-  <br><br>
-  GPM Parks se concentre sur des projets techniquement robustes, écologiquement responsables et économiquement viables à long terme."
-
+  subtitle : "About Us"
+  title : "Company History"
+  
+  content : "Our first manufacturing plant was established in 2018 in Al Hoceima, becoming the first 250 MW solar panel plant in
+Morocco & the largest in Africa. Founded under the parent company GPM Holding’s umbrella, the company initially focused
+on supplying Solaris’ modules for solar farms throughout Morocco. In 2024, the company launched a new 750 MW facility in
+a free trade zone, taking advantage of tax & tariff exemptions to optimize costs for serving international clients,
+Since its inception, Solaris Tangier has maintained its position as Africa’s largest PV solar module manufacturer."
+  
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/image3.jpeg"
-  image : "images/about/image3.jpeg"
+  image_webp : "images/about/57_ECOPACKR_26.jpg"
+  image : "images/about/57_ECOPACKR_26.jpg"
   button:
     enable : true;
-    label : "plus de services"
+    label : "more services"
     link : "#contacts"
 
 ################################## funfacts ###############################
@@ -93,51 +96,53 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "Projets en cours"
-      count : "3"
-      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
-
+    - name : "Annual Capacity <br>(MW)"
+      count : "750"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
+      
     # fanfacts item loop
-    - name : "Années d'expérience"
-      count : "10"
+    - name : "Facility Size <br>(sqm)"
+      count : "10000"
+      icon : "fas fa-industry" # font-awesome 5 : https://fontawesome.com/icons/
+      
+    # fanfacts item loop
+    - name : "Performance <br>Warranty (Years)"
+      count : "30"
+      icon : "fas fa-shield-alt" # font-awesome 5 : https://fontawesome.com/icons/
+      
+    # fanfacts item loop
+    - name : "Years <br>Experience"
+      count : "8"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
-
-    # fanfacts item loop
-    - name : "Production annuelle (GWh)"
-      count : "67"
-      icon : "fas fa-bolt" # font-awesome 5 : https://fontawesome.com/icons/
-
-    # fanfacts item loop
-    - name : "Surface des projets (ha)"
-      count : "72"
-      icon : "fas fa-map" # font-awesome 5 : https://fontawesome.com/icons/
 
 
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Fabrication et Technologie"
-  title : "Technologie des Parcs Solaires"
-  image_webp : "images/about/GPM-1-2-map.jpeg"
-  image : "images/about/GPM-1-2-map.jpeg"
+  subtitle : "Mission & Vision"
+  title : "Solaris Tangier Values"
+  image_webp : "images/about/_DSC0576.jpg"
+  image : "images/about/_DSC0576.jpg"
   content : ""
   feature_item:
     # feature item loop
-    - name : "Équipements de pointe pour une production d'énergie propre"
-      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Le parc solaire GPM 1 utilise des équipements de pointe conçus pour garantir une production d'énergie propre, fiable et 
-      performante.
-      <br><br> 
-      - <b>Suivi Solaire :</b> Les panneaux sont montés sur des suiveurs solaires à axe horizontal alignés dans une direction Nord-Sud. 
-      Cette technologie permet aux panneaux de suivre la lumière du soleil du lever au coucher, maximisant la production d'énergie tout au long de la journée. <br>
-      - <b>Conversion d'Énergie :</b> Les panneaux photovoltaïques captent l'énergie solaire et la convertissent en électricité. Cette production 
-      est optimisée par des systèmes d'onduleurs qui assurent une transformation stable et efficace du courant.<br>
-      - <b>Intégration au Réseau :</b> L'énergie produite est transmise via des postes de transformation et des sous-stations de livraison, 
-      permettant une intégration sûre et fluide au réseau électrique national.
-      <br><br> Ce système offre un fonctionnement fluide et sécurisé, conforme aux meilleures pratiques de l'industrie, tout en fournissant de 
-      l'électricité verte au réseau."
-
-
+    - name : "Mission"
+      icon : "fas fa-crosshairs" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "At Solaris Tangier, our mission is to drive the global transition to sustainable energy by delivering 
+      cutting-edge, high-efficiency photovoltaic solar solutions. We are committed to advancing the quality & 
+      affordability of solar technology by maintaining flexibility in our product design & modular manufacturing 
+      processes in our state-of-the-art facility. Our aim is to ensure energy independence for our clients & promote 
+      environmental responsibility."
+      
+    # feature item loop
+    - name : "Vision"
+      icon : "fas fa-eye" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Solaris Tangier envisions becoming Africa’s leading hub for solar panel manufacturing, supporting 
+      Morocco’s renewable energy goals and reducing international reliance on China-centric supply chains. We aim to 
+      deliver ethically sourced, high-efficiency solar solutions that meet the needs of both African & North American 
+      markets, driving sustainable energy worldwide."
+      
+      
 ################################# service ############################################
 service:
   enable : false
@@ -155,7 +160,7 @@ service:
       <br><br>      
       Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
       contribution to Morocco's green energy infrastructure."
-
+      
     # service item loop
     - name : "GreenPower Morocco 2"
       link : "service/gpm-2/"
@@ -169,7 +174,7 @@ service:
       <br><br> 
       GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
       Morocco"
-
+      
     # service item loop
     - name : "GreenPower Morocco 4"
       link : "service/gpm-4/"
@@ -199,21 +204,21 @@ project:
   show_item : 3
   button:
     enable : true
-    label : "plus de projets"
+    label : "more details"
     link : "project/"
   # project item comes from "content/*/project" folder
 
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Alimentez votre avenir avec des solutions d'énergie propre"
-  bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
-  bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  title : "Partner with Us to Power Your Next Solar Project"
+  bg_image_webp : "images/backgrounds/_DSC0422.jpg"
+  bg_image : "images/backgrounds/_DSC0422.jpg"
   button:
     enable : false
-    label : "demander un devis"
+    label : "get a quote"
     link : "#contacts"
-
+    
 ################################# testimonial #########################################
 testimonial:
   enable : false
@@ -244,23 +249,23 @@ partners:
   subtitle : "PARTNERS"
   title : "Our Strategic Partners"
   partners_item:
-
-
+    
+      
     # partners item loop
     - partner_logo : "images/partners/partner-3.png"
       name : "The Moroccan Agency for Investment and Export Development"
-      description : "[Visit site](https://amdie.gov.ma/)"
-
+      description : "[Visit site](https://amdie.gov.ma/)"    
+      
     # partners item loop
     - partner_logo : "images/partners/partner-2.png"
       name : "The U.S. International Development Finance Corporation"
-      description : "[Visit site](https://www.dfc.gov/)"
+      description : "[Visit site](https://www.dfc.gov/)"      
     # partners item loop
     - partner_logo : "images/partners/partner-1.jpg"
       name : "Advanced Material Solutions"
       description : "[Visit site](https://silicongases.com/polysilicon)"
-
-
+  
+      
 ################################# blog ################################################
 blog:
   enable : false
