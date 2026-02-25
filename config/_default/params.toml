@@ -14,7 +14,7 @@ address = "Lots 270 - 275, Mod B, TAC Free Zone, Tangier, Morocco"
 mobile = "+212 539 945 952"
 email = "info@solaristangier.ma"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLScDa59Od4NhQFeXqdNLsFJd7rMd7EwPiU7TTxzwPQ7jpbTWZw/formResponse" # contact form works with https://formspree.io
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX
