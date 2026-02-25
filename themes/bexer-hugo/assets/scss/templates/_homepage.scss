@@ -6,6 +6,28 @@
 .banner-feature {
   transition: .2s ease;
 
+  .min-height-en {
+    p {
+      @media(min-width: 576px) {
+        //min-height: 96px;
+      }
+    }
+  }
+
+  .min-height-fr {
+    h4 {
+      @media(min-width: 576px) {
+        //min-height: 80px;
+      }
+    }
+
+    p {
+      @media(min-width: 576px) {
+        min-height: 120px;
+      }
+    }
+  }
+
   &:hover,
   &.active {
     background: $secondary-color !important;
