@@ -10,6 +10,11 @@ baseURL = "/"
 home = "Home"
 keywords = ["Solaris Tangier", "Solar Panel Manufacturing", "PV Solar Modules", "Renewable Energy Morocco", "TOPCon Solar Panels", "HJT Technology", "PERC Solar Panels", "Africa Solar Manufacturer", "Ethical Solar Sourcing", "Tangier Free Zone", "Photovoltaic Solutions"]
 
+# contact info
+address = "Lots 270 - 275, Mod B, TAC Free Zone, Tangier, Morocco"
+mobile = "+212 539 945 952"
+email = "info@gp-maroc.ma"
+
 # cookie consent content
 consent_manage = 'Manage preferences'
 consent_deny = 'Deny'
@@ -37,6 +42,11 @@ weight = 2
 baseURL = "/fr/"
 home = "Accueil"
 keywords = ["Solaris Tangier", "Fabrication de Panneaux Solaires", "Modules Solaires PV", "Énergie Renouvelable Maroc", "Panneaux Solaires TOPCon", "Technologie HJT", "Panneaux Solaires PERC", "Fabricant Solaire Afrique", "Approvisionnement Solaire Éthique", "Zone Franche de Tanger", "Solutions Photovoltaïques"]
+
+# contact info
+address = "Lots 270 - 275, Mod B, TAC Free Zone, Tangier, Morocco"
+mobile = "+212 539 945 952"
+email = "info@gp-maroc.ma"
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'
