@@ -11,7 +11,7 @@ description = "Solaris Tangier is Africa's largest PV solar module manufacturer,
 author = "Solaris"
 
 # contact form action
-contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLScDa59Od4NhQFeXqdNLsFJd7rMd7EwPiU7TTxzwPQ7jpbTWZw/formResponse" # contact form works with https://formspree.io
+contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSe-dWOVRwoxZ7M-z3W6J4WXf48uy4QUdtJkPw-K1FDTHAuWsQ/formResponse" # contact form works with https://formspree.io
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX
